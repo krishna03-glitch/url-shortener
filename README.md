@@ -1,6 +1,6 @@
 # URL Shortener API
 
-A lightweight URL shortening service built with **FastAPI** and **PostgreSQL**.
+A production-style backend service for shortening and redirecting URLs, built with FastAPI and PostgreSQL and containerized with Docker.
 
 ## Links
 
